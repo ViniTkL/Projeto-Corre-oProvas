@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668436979 source:c:\users\vinim\onedrive\desktop\programando em cu\projeto notas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
